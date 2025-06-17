@@ -144,25 +144,4 @@ model.predict(scaler.transform([[amount, avg_daily_tx, hour]]))
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License. See [`LICENSE`](LICENSE) for more details.
-
----
-
-## 🙋‍♀️ Made with ❤️ by \[Your Name]
-
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/your-profile)
-
-```
-
----
-
-### ✅ Tips:
-
-- **Add a `requirements.txt`** with: `streamlit`, `scikit-learn`, `pandas`, `numpy`, `matplotlib`, etc.
-- Make sure your Gmail account is secured with [App Passwords](https://support.google.com/accounts/answer/185833).
-- You can host this app on [Streamlit Community Cloud](https://streamlit.io/cloud).
-
-Let me know if you’d like help with Streamlit deployment, logo design, or GitHub actions setup!
-```
