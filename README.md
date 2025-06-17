@@ -2,7 +2,6 @@ Here is your cleaned and **Markdown-formatted `README.md`** for GitHub with prop
 
 ---
 
-```markdown
 # 💸 FraudSniff – Smart Banking Fraud Detection System
 
 ![Streamlit App](https://img.shields.io/badge/Built%20With-Streamlit-orange)
